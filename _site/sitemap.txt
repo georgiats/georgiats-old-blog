@@ -9,4 +9,5 @@ http://georgiats.github.io/site_list.html
 http://georgiats.github.io/sitemap.txt
 http://georgiats.github.io/tags.html
 
-http://georgiats.github.io/opendata/2014/12/23/OpenGov%20sites
+http://georgiats.github.io/opendata/2014/12/25/OpenGov%20sites
+http://georgiats.github.io/opendata/2014/12/25/Geodata%20sites
