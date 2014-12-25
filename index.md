@@ -16,7 +16,7 @@ I am also a coordinator in our team [OpenThessaloniki](http://www.openthessaloni
     
 ### My posts (both in Greek and English)
 
-Here you can find a list with available greek sites, that are related to Open Data  
+Here you can find a list of greek sites, that are related to Open Data  
 
 <ul class="posts">
   {% for post in site.posts %}
