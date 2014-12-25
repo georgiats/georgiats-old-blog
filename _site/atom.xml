@@ -4,7 +4,7 @@
  <title>Georgia Tsiamanta</title>
  <link href="http://georgiats.github.io/" rel="self"/>
  <link href="http://georgiats.github.io"/>
- <updated>2014-12-25T23:55:07+02:00</updated>
+ <updated>2014-12-25T23:56:01+02:00</updated>
  <id>http://georgiats.github.io</id>
  <author>
    <name>Georgia Tsiamanta</name>
@@ -130,8 +130,12 @@
           &lt;dd&gt;Here are the data visualized on the map&lt;/dd&gt;
         &lt;/dl&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://labs.geodata.gov.gr/&quot;&gt;Labs&lt;/a&gt;
-  :Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.&lt;/li&gt;
+      &lt;li&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;&lt;a href=&quot;http://labs.geodata.gov.gr/&quot;&gt;Labs&lt;/a&gt;&lt;/dt&gt;
+          &lt;dd&gt;Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
