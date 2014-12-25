@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Georgia Tsiamanta</title>
+ <link href="http://georgiats.github.io/" rel="self"/>
+ <link href="http://georgiats.github.io"/>
+ <updated>2014-12-25T23:20:29+02:00</updated>
+ <id>http://georgiats.github.io</id>
+ <author>
+   <name>Georgia Tsiamanta</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ <entry>
+   <title>Opengov sites</title>
+   <link href="http://georgiats.github.io/opendata/2014/12/23/OpenGov%20sites"/>
+   <updated>2014-12-23T00:00:00+02:00</updated>
+   <id>http://georgiats.github.io/opendata/2014/12/23/OpenGov sites</id>
+   <content type="html">
+&lt;h2 id=&quot;government&quot;&gt;Government&lt;/h2&gt;
+
+&lt;h3 id=&quot;diavgeia-the-transparency-program-initiative--clrity&quot;&gt;Diavgeia (The Transparency Program initiative / Cl@rity)&lt;/h3&gt;
+&lt;p&gt;All government institutions are obliged to upload their acts and decisions on the Internet with special attention to issues of national security and sensitive personal data. Administrative acts and decisions are not valid unless published online. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr&quot;&gt;Main site&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;&lt;a href=&quot;https://diavgeia.gov.gr/search?advanced&quot;&gt;Advanced Seach&lt;/a&gt;&lt;/dt&gt;
+          &lt;dd&gt;Search in diavgeia by several topics or by using Opendata API&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;&lt;a href=&quot;https://diavgeia.gov.gr/api/help&quot;&gt;Opendata API help page&lt;/a&gt;&lt;/dt&gt;
+          &lt;dd&gt;Here is expalined how to use Diavgeia&amp;#8217;s API in order to get the decision&amp;#8217;s information &lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/changelog&quot;&gt;Opendata API history track&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;&lt;a href=&quot;https://github.com/diavgeia&quot;&gt;Github page with sample code for the Opendata API calls&lt;/a&gt;&lt;/dt&gt;
+          &lt;dd&gt;Here is some sample code in Java, PHP and Python in order for developers than need to make some calls to Opendata API&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opengovpartnership.org/country/greece&quot;&gt;Greece page at Open Government Partnership&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/blog&quot;&gt;Diavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/blog/?cat=2&quot;&gt;Opendata API blogposts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCyAPFBuCS-YMwBb7IRnxUUg&quot;&gt;Youtube channel&lt;/a&gt;&lt;/dt&gt;
+          &lt;dd&gt;Here are explained some processes through hands-on videos&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/diavgeia&quot;&gt;Twitter account&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://el-gr.facebook.com/diavgeiagr&quot;&gt;Facebook account&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;yperdiavgeia-ultraclrity&quot;&gt;Yperdiavgeia (Ultracl@rity)&lt;/h3&gt;
+&lt;p&gt;Search engine for greek open public data. UltraCl@rity was created for all citizens! Public Data are open to all (Greek Constitution, article 5A). The objective of UltraCl@rity is to promote transparency and help people use public open data.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;https://yperdiavgeia.gr&quot;&gt;Main site&lt;/a&gt;&lt;/dt&gt;
+      &lt;dd&gt;Search to&lt;/dd&gt;
+    &lt;/dl&gt;
+    &lt;ul&gt;
+      &lt;li&gt;all the documents published through &lt;a href=&quot;https://diavgeia.gov.gr&quot;&gt;diavgeia.gov.gr&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;all the Greek Legislation published through the National Printing Service &lt;a href=&quot;www.et.gr&quot;&gt;www.et.gr&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;all tenders and procurements published through the Central Electronic Registry for Public Contracts (CERPC), &lt;a href=&quot;www.eprocurement.gov.gr&quot;&gt;www.eprocurement.gov.gr&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;all the Greek Parliament proceedings published through &lt;a href=&quot;www.parliament.gr&quot;&gt;www.parliament.gr&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://yperdiavgeia.blogspot.gr&quot;&gt;Yperdiavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://hackathon.vbanos.gr/&quot;&gt;GRGOV Mobile Search&lt;/a&gt; with it&amp;#8217;s code available on &lt;a href=&quot;https://github.com/vbanos/grgov-mobile-search&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://yperdiavgeia.gr/docs/opensearch&quot;&gt;OpenSearch API help page&lt;/a&gt; The result of the HTTP Request is an Atom Feed of type OpenSearch Response.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;datagovgr&quot;&gt;Data.gov.gr&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/&quot;&gt;Main Site&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/blog&quot;&gt;blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/datasetrequests/&quot;&gt;data requests&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot;&gt;dataset search&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;relevant-sites&quot;&gt;Relevant sites&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;http://ogp.opengov.gr/&quot;&gt;ogp.opengov.gr&lt;/a&gt; &lt;/dt&gt;
+      &lt;dd&gt;a list of websites of governmental institutions related to open data or open government&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hellenicpolice&quot;&gt;twitter account of greek police&lt;/a&gt; which works as described &lt;a href=&quot;http://www.astynomia.gr/index.php?option=ozo_content&amp;amp;perform=view&amp;amp;id=3037&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;http://labs.opengov.gr/&quot;&gt;labs.opengov.gr&lt;/a&gt; &lt;/dt&gt;
+      &lt;dd&gt;this site is depricated&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

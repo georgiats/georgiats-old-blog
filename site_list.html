@@ -1,0 +1,19 @@
+---
+layout: page
+title: My list of Open Data sites 
+header: Pages
+group: navigation
+---
+{% include JB/setup %}
+
+<h2>My lists</h2>
+{% include JB/pages_list %}
+
+
+<ul >
+    {% for post in site.posts limit 4 %}
+    <li><h4><span>Category: {{ post.category }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4></li>
+        {{ post.content | strip_html | truncatewords:45}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+    {% endfor %}
+</ul>

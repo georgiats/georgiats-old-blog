@@ -18,9 +18,7 @@ I am also a coordinator in our team [OpenThessaloniki](http://www.openthessaloni
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><h4><span>Category: {{ post.categories }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4></li>
   {% endfor %}
 </ul>
 
-
-### Where to find me

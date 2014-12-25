@@ -1,25 +1,26 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
+    <title>Archive</title>
+    
+    <meta name="author" content="Georgia Tsiamanta">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Bootstrap styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Optional theme -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
     
     <!-- Custom styles -->
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -37,8 +38,8 @@
     -->
 
     <!-- atom & rss feed -->
-    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
   </head>
 
   <body>
@@ -52,22 +53,84 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <a class="navbar-brand" href="/">Georgia Tsiamanta</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="jb-navbar-collapse">
           <ul class="nav navbar-nav">
           <li><a href="/site_list.html">site list</a></li>
-            <!-- {% assign pages_list = site.pages %}            
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %} -->
+            <!--             
+            
+            
+
+
+  
+    
+      
+      	
+      	<li class="active"><a href="/archive.html" class="active">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories.html">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages.html">Pages</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/site_list.html">My list of Open Data sites</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags.html">Tags</a></li>
+      	
+      
+    
+  
+
+
+ -->
           </ul>
         
       <div align="right">
       
-        <a href="http://github.com/{{ site.author.github }}/" rel="me" target="_blank"><img class="img-circle" src="/images/github.png" alt="Generic placeholder image" style="width: 40px; height: 40px;"></a>
-        <a href="http://twitter.com/{{ site.author.twitter }}/" rel="me" target="_blank"><img class="img-circle" src="/images/twitter.png" style="width: 40px; height: 40px;"></a>
+        <a href="http://github.com/georgiats/" rel="me" target="_blank"><img class="img-circle" src="/images/github.png" alt="Generic placeholder image" style="width: 40px; height: 40px;"></a>
+        <a href="http://twitter.com/GTmanta/" rel="me" target="_blank"><img class="img-circle" src="/images/twitter.png" style="width: 40px; height: 40px;"></a>
        <a href="http://gr.linkedin.com/in/gtsiamanta" target="_blank"><img class="img-circle" src="/images/linkedin.png" style="width: 40px; height: 40px;"></a>
       
     </div><!-- /.navbar-collapse -->
@@ -75,24 +138,73 @@
       </nav>
 
       <div class="container">
-        {{ content }}
+        
+<div class="page-header">
+  <h1>Archive </h1>
+</div>
+
+
+<div class="container">
+<div class="row1">
+<div class="col-md-4">
+	<img class="img-circle" src="/images/me.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+  	<h2><h2>
+</div>
+</div><!-- /.col-lg-4 -->
+
+
+<div class="row2">
+  <div class="col-md-8">
+    
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+      <h2>2014</h2>
+      <h3>December</h3>
+      <ul>
+    
+  
+    <li><span>December 23, 2014</span> &raquo; <a href="/opendata/2014/12/23/OpenGov%20sites">Opengov sites</a></li>
+  
+    
+      </ul>
+    
+  
+
+
+  </div>
+</div>
+
+</div>
+
+
       </div>
 
     </div>
 
     <div id="footer">
       <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+        <p>&copy; 2014 Georgia Tsiamanta
         </p>
       </div>
     </div>
 
-    {% include JB/analytics %}
+    
 
 
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
+
