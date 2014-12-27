@@ -9,9 +9,9 @@ tags : [opendata,geodata]
 ##Geodata
 
 ### Geodata.gov.gr
+geodata.gov.gr was designed and developed with the aim to provide a focal point for the aggregation, search, provision and portrayal of open public *geospatial information*. It's one of the Greek Government’s open government initiatives in the framework of the Open Government Partnership.
 
 + [Main site](http://geodata.gov.gr){:target="_blank"}
-	: geodata.gov.gr was designed and developed with the aim to provide a focal point for the aggregation, search, provision and portrayal of open public *geospatial information*. It's one of the Greek Government’s open government initiatives in the framework of the Open Government Partnership.
 
     - [Maps](http://geodata.gov.gr/maps/){:target="_blank"}
     : Here are the data visualized on the map

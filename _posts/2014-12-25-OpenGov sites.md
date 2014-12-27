@@ -48,7 +48,7 @@ Search engine for greek open public data. UltraCl@rity was created for all citiz
     
   
 ### Relevant sites
-- [ogp.opengov.gr](http://ogp.opengov.gr/) {:target="_blank"}
+- [ogp.opengov.gr](http://ogp.opengov.gr/){:target="_blank"}
 : a list of websites of governmental institutions related to open data or open government
 - [twitter account of greek police](https://twitter.com/hellenicpolice){:target="_blank"} which works as described [here](http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=3037){:target="_blank"}
 - [labs.opengov.gr](http://labs.opengov.gr/){:target="_blank"}
