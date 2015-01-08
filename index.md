@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi there, I am Georgia :)
+title: Welcome to my page, I am Georgia :)
 tagline: Connect with me
 ---
 {% include JB/setup %}
