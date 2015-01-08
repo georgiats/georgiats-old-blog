@@ -5,7 +5,7 @@ tagline: Connect with me
 ---
 {% include JB/setup %}
 
-My name is Georgia and I am Mathematician, Computer Scientist and Open Data enthusiast. 
+My name is Georgia Tsiamanta and I am Mathematician, Computer Scientist and Open Data enthusiast. 
 
 
 I work in IT and I spend my time among my job, my Master's studies and some tech meetups all around Thessaloniki. 
