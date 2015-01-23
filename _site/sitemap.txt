@@ -1,13 +1,13 @@
 
-http://georgiats.github.io/archive.html
-http://georgiats.github.io/atom.xml
-http://georgiats.github.io/categories.html
-http://georgiats.github.io/index.html
-http://georgiats.github.io/pages.html
-http://georgiats.github.io/rss.xml
-http://georgiats.github.io/site_list.html
-http://georgiats.github.io/sitemap.txt
-http://georgiats.github.io/tags.html
+http://openthessaloniki.github.io/archive.html
+http://openthessaloniki.github.io/atom.xml
+http://openthessaloniki.github.io/categories.html
+http://openthessaloniki.github.io/index.html
+http://openthessaloniki.github.io/pages.html
+http://openthessaloniki.github.io/rss.xml
+http://openthessaloniki.github.io/site_list.html
+http://openthessaloniki.github.io/sitemap.txt
+http://openthessaloniki.github.io/tags.html
 
-http://georgiats.github.io/opendata/2014/12/25/OpenGov%20sites
-http://georgiats.github.io/opendata/2014/12/25/Geodata%20sites
+http://openthessaloniki.github.io/opendata/2014/12/25/OpenGov%20sites
+http://openthessaloniki.github.io/opendata/2014/12/25/Geodata%20sites

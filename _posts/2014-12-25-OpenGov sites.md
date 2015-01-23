@@ -3,6 +3,7 @@ layout: post
 category : opendata
 tagline: "Greek sites related to OpenGov through OpenData"
 tags : [opendata,opengov,diavgeia]
+description: This is a list of data related to Open Government and e-government
 ---
 {% include JB/setup %}
 
@@ -33,8 +34,8 @@ Search engine for greek open public data. UltraCl@rity was created for all citiz
     - all the Greek Legislation published through the National Printing Service [www.et.gr](www.et.gr){:target="_blank"}
     - all tenders and procurements published through the Central Electronic Registry for Public Contracts (CERPC), [www.eprocurement.gov.gr](www.eprocurement.gov.gr){:target="_blank"}
     - all the Greek Parliament proceedings published through [www.parliament.gr](www.parliament.gr){:target="_blank"}
-- [Yperdiavgeia's blog](http://yperdiavgeia.blogspot.gr)
-- [GRGOV Mobile Search](http://hackathon.vbanos.gr/) with it's code available on [github](https://github.com/vbanos/grgov-mobile-search){:target="_blank"}
+- [Yperdiavgeia's blog](http://yperdiavgeia.blogspot.gr){:target="_blank"}
+- [GRGOV Mobile Search](http://hackathon.vbanos.gr/){:target="_blank"} with it's code available on [github](https://github.com/vbanos/grgov-mobile-search){:target="_blank"}
 - [OpenSearch API help page](https://yperdiavgeia.gr/docs/opensearch){:target="_blank"} The result of the HTTP Request is an Atom Feed of type OpenSearch Response.
     
 ### Data.gov.gr

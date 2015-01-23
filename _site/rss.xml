@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Georgia Tsiamanta</title>
-        <description>Georgia Tsiamanta - Georgia Tsiamanta</description>
-        <link>http://georgiats.github.io</link>
-        <link>http://georgiats.github.io</link>
-        <lastBuildDate>2014-12-27T18:48:51+02:00</lastBuildDate>
-        <pubDate>2014-12-27T18:48:51+02:00</pubDate>
+        <title>Greek Open Data Index</title>
+        <description>Greek Open Data Index - OpenThessaloniki</description>
+        <link>http://openthessaloniki.github.io</link>
+        <link>http://openthessaloniki.github.io</link>
+        <lastBuildDate>2015-01-21T15:28:58+02:00</lastBuildDate>
+        <pubDate>2015-01-21T15:28:58+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -48,8 +48,8 @@
       &lt;li&gt;all the Greek Parliament proceedings published through &lt;a href=&quot;www.parliament.gr&quot; target=&quot;_blank&quot;&gt;www.parliament.gr&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://yperdiavgeia.blogspot.gr&quot;&gt;Yperdiavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hackathon.vbanos.gr/&quot;&gt;GRGOV Mobile Search&lt;/a&gt; with it&amp;#8217;s code available on &lt;a href=&quot;https://github.com/vbanos/grgov-mobile-search&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yperdiavgeia.blogspot.gr&quot; target=&quot;_blank&quot;&gt;Yperdiavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackathon.vbanos.gr/&quot; target=&quot;_blank&quot;&gt;GRGOV Mobile Search&lt;/a&gt; with it&amp;#8217;s code available on &lt;a href=&quot;https://github.com/vbanos/grgov-mobile-search&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://yperdiavgeia.gr/docs/opensearch&quot; target=&quot;_blank&quot;&gt;OpenSearch API help page&lt;/a&gt; The result of the HTTP Request is an Atom Feed of type OpenSearch Response.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -72,8 +72,8 @@
   &lt;li&gt;&lt;a href=&quot;http://labs.opengov.gr/&quot; target=&quot;_blank&quot;&gt;labs.opengov.gr&lt;/a&gt;, this site is depricated&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>http://georgiats.github.io/opendata/2014/12/25/OpenGov%20sites</link>
-                <guid>http://georgiats.github.io/opendata/2014/12/25/OpenGov sites</guid>
+                <link>http://openthessaloniki.github.io/opendata/2014/12/25/OpenGov%20sites</link>
+                <guid>http://openthessaloniki.github.io/opendata/2014/12/25/OpenGov sites</guid>
                 <pubDate>2014-12-25T00:00:00+02:00</pubDate>
         </item>
 
@@ -89,7 +89,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://geodata.gov.gr&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://geodata.gov.gr/maps/&quot; target=&quot;_blank&quot;&gt;Maps&lt;/a&gt; with visualized data on the map&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://geodata.gov.gr/maps/&quot; target=&quot;_blank&quot;&gt;Maps&lt;/a&gt; with visualized data on the map (currently unavailable)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://labs.geodata.gov.gr/&quot; target=&quot;_blank&quot;&gt;Labs&lt;/a&gt;  &lt;span style=&quot;color:red&quot;&gt;[new site]&lt;/span&gt;
   	Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. &lt;/li&gt;
 &lt;/ul&gt;
@@ -99,21 +99,21 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://opengeodata.gr&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://opengeodata.gr&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt; &lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Most useful datasets&lt;/p&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=387&quot;&gt;Όρια Διαμερισμάτων και γειτονιών Δήμου Αθήνας&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/wp-content/uploads/2014/06/Oria_D_Diamerismaton_D_Athinaion.kmz&quot;&gt;Download&lt;/a&gt; the dataset)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=380&quot;&gt;Λεξικό Ελληνικών επωνύμων &amp;amp; ονομάτων&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/wp-content/uploads/2013/unique.zip&quot;&gt;Download&lt;/a&gt; the dataset)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=363&quot;&gt;Τα αποτελέσματα των εκλογών του Ιουνίου 2012&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=344&quot;&gt;Αριθμός Ψηφοφόρων ανά εκλογικό διαμέρισμα και λεξικά - 2012&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/fakelos_files/greek_streets_settlements/eklogikos_plithos_psifoforon_ana_eklogiko.xls&quot;&gt;Download&lt;/a&gt; the dataset) &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=387&quot; target=&quot;_blank&quot;&gt;Όρια Διαμερισμάτων και γειτονιών Δήμου Αθήνας&lt;/a&gt;   (&lt;a href=&quot;http://www.opengeodata.gr/wp-content/uploads/2014/06/Oria_D_Diamerismaton_D_Athinaion.kmz&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt; the dataset) &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=380&quot; target=&quot;_blank&quot;&gt;Λεξικό Ελληνικών επωνύμων &amp;amp; ονομάτων&lt;/a&gt;   (&lt;a href=&quot;http://www.opengeodata.gr/wp-content/uploads/2013/unique.zip&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt; the dataset)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=363&quot; target=&quot;_blank&quot;&gt;Τα αποτελέσματα των εκλογών του Ιουνίου 2012&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=344&quot; target=&quot;_blank&quot;&gt;Αριθμός Ψηφοφόρων ανά εκλογικό διαμέρισμα και λεξικά - 2012&lt;/a&gt;  (&lt;a href=&quot;http://www.opengeodata.gr/fakelos_files/greek_streets_settlements/eklogikos_plithos_psifoforon_ana_eklogiko.xls&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt; the dataset) &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>http://georgiats.github.io/opendata/2014/12/25/Geodata%20sites</link>
-                <guid>http://georgiats.github.io/opendata/2014/12/25/Geodata sites</guid>
+                <link>http://openthessaloniki.github.io/opendata/2014/12/25/Geodata%20sites</link>
+                <guid>http://openthessaloniki.github.io/opendata/2014/12/25/Geodata sites</guid>
                 <pubDate>2014-12-25T00:00:00+02:00</pubDate>
         </item>
 

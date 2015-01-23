@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="google-site-verification" content="mZqmVRN7JUsMBYmCEBs2c0DPrpaRo8SvIckF9mpWbVg" />
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
@@ -30,7 +29,7 @@
 
     <!-- Fav and touch icons -->
     <!-- Update these with your own images -->
-    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="shortcut icon" href="/images/me.png">
      <!--<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
       <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
       <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -58,10 +57,14 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="jb-navbar-collapse">
           <ul class="nav navbar-nav">
-          <li><a href="/site_list.html">My Open Data lists</a></li>
-            <!-- {% assign pages_list = site.pages %}            
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %} -->
+            <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Open Data lists <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              {% for post in site.posts %}
+              <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
           </ul>
         
       </div>
