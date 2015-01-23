@@ -5,8 +5,8 @@
         <description>Greek Open Data Index - OpenThessaloniki</description>
         <link>http://openthessaloniki.github.io</link>
         <link>http://openthessaloniki.github.io</link>
-        <lastBuildDate>2015-01-21T15:28:58+02:00</lastBuildDate>
-        <pubDate>2015-01-21T15:28:58+02:00</pubDate>
+        <lastBuildDate>2015-01-23T17:29:03+02:00</lastBuildDate>
+        <pubDate>2015-01-23T17:29:03+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -57,12 +57,18 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://data.gov.gr/&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://data.gov.gr/&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt; &lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/blog&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/datasetrequests/&quot; target=&quot;_blank&quot;&gt;data requests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot; target=&quot;_blank&quot;&gt;dataset search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot; target=&quot;_blank&quot;&gt;dataset search&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Most useful datasets&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/data_gov_gr_list.html&quot;&gt;click for the simple list here&lt;/a&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;relevant-sites&quot;&gt;Relevant sites&lt;/h3&gt;
 &lt;ul&gt;

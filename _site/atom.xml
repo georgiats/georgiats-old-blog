@@ -4,7 +4,7 @@
  <title>Greek Open Data Index</title>
  <link href="http://openthessaloniki.github.io/" rel="self"/>
  <link href="http://openthessaloniki.github.io"/>
- <updated>2015-01-21T15:28:58+02:00</updated>
+ <updated>2015-01-23T17:29:03+02:00</updated>
  <id>http://openthessaloniki.github.io</id>
  <author>
    <name>OpenThessaloniki</name>
@@ -62,12 +62,18 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://data.gov.gr/&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://data.gov.gr/&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt; &lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/blog&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/datasetrequests/&quot; target=&quot;_blank&quot;&gt;data requests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot; target=&quot;_blank&quot;&gt;dataset search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot; target=&quot;_blank&quot;&gt;dataset search&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Most useful datasets&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/data_gov_gr_list.html&quot;&gt;click for the simple list here&lt;/a&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;relevant-sites&quot;&gt;Relevant sites&lt;/h3&gt;
 &lt;ul&gt;

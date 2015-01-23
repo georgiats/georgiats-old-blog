@@ -2,6 +2,7 @@
 http://openthessaloniki.github.io/archive.html
 http://openthessaloniki.github.io/atom.xml
 http://openthessaloniki.github.io/categories.html
+http://openthessaloniki.github.io/data_gov_gr_list.html
 http://openthessaloniki.github.io/index.html
 http://openthessaloniki.github.io/pages.html
 http://openthessaloniki.github.io/rss.xml

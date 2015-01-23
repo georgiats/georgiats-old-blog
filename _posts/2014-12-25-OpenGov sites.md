@@ -40,12 +40,14 @@ Search engine for greek open public data. UltraCl@rity was created for all citiz
     
 ### Data.gov.gr
 
-- [Main site](http://data.gov.gr/){:target="_blank"}
+- [Main site](http://data.gov.gr/){:target="_blank"} 
 
 - [blog](http://data.gov.gr/blog){:target="_blank"}
 - [data requests](http://data.gov.gr/datasetrequests/){:target="_blank"}
 - [dataset search](http://data.gov.gr/dataset-search/){:target="_blank"}
-    
+	+ Most useful datasets
+
+<a href="{{ BASE_PATH }}/data_gov_gr_list.html">click for the simple list here</a> 
   
 ### Relevant sites
 - [Greece page at Open Government Partnership](http://www.opengovpartnership.org/country/greece){:target="_blank"}
