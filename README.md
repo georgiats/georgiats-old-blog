@@ -1,3 +1,3 @@
-##Georgia Tsiamanta
+##Open Thessaloniki
 
-This is my website
+This is the Greek Open Data Index  
