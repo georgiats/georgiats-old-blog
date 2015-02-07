@@ -4,120 +4,13 @@
  <title>Georgia Tsiamanta</title>
  <link href="http://georgiats.github.io/" rel="self"/>
  <link href="http://georgiats.github.io"/>
- <updated>2014-12-27T18:48:51+02:00</updated>
+ <updated>2015-02-07T23:22:46+02:00</updated>
  <id>http://georgiats.github.io</id>
  <author>
    <name>Georgia Tsiamanta</name>
    <email>blah@email.test</email>
  </author>
 
- 
- <entry>
-   <title>Opengov sites</title>
-   <link href="http://georgiats.github.io/opendata/2014/12/25/OpenGov%20sites"/>
-   <updated>2014-12-25T00:00:00+02:00</updated>
-   <id>http://georgiats.github.io/opendata/2014/12/25/OpenGov sites</id>
-   <content type="html">
-&lt;h2 id=&quot;government&quot;&gt;Government&lt;/h2&gt;
-
-&lt;h3 id=&quot;diavgeia-the-transparency-program-initiative--clrity&quot;&gt;Diavgeia (The Transparency Program initiative / Cl@rity)&lt;/h3&gt;
-&lt;p&gt;All government institutions are obliged to upload their acts and decisions on the Internet with special attention to issues of national security and sensitive personal data. Administrative acts and decisions are not valid unless published online. &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://diavgeia.gov.gr&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/search?advanced&quot; target=&quot;_blank&quot;&gt;Advanced Seach&lt;/a&gt; in diavgeia by several topics or by using Opendata API&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/api/help&quot; target=&quot;_blank&quot;&gt;Opendata API help page&lt;/a&gt;, where is expalined how to use Diavgeia&amp;#8217;s API in order to get the decision&amp;#8217;s information &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/changelog&quot; target=&quot;_blank&quot;&gt;Opendata API history track&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/diavgeia&quot; target=&quot;_blank&quot;&gt;Github page with sample code for the Opendata API calls&lt;/a&gt; with sample code in Java, PHP and Python in order for developers than need to make some calls to the API&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/blog&quot; target=&quot;_blank&quot;&gt;Diavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diavgeia.gov.gr/blog/?cat=2&quot; target=&quot;_blank&quot;&gt;Opendata API blogposts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCyAPFBuCS-YMwBb7IRnxUUg&quot; target=&quot;_blank&quot;&gt;Youtube channel&lt;/a&gt; where are explained some processes through hands-on videos&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/diavgeia&quot; target=&quot;_blank&quot;&gt;Twitter account&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://el-gr.facebook.com/diavgeiagr&quot; target=&quot;_blank&quot;&gt;Facebook account&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;yperdiavgeia-ultraclrity&quot;&gt;Yperdiavgeia (Ultracl@rity)&lt;/h3&gt;
-&lt;p&gt;Search engine for greek open public data. UltraCl@rity was created for all citizens! Public Data are open to all (Greek Constitution, article 5A). The objective of UltraCl@rity is to promote transparency and help people use public open data.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://yperdiavgeia.gr&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Search is possible for:
-    &lt;ul&gt;
-      &lt;li&gt;all the documents published through &lt;a href=&quot;https://diavgeia.gov.gr&quot; target=&quot;_blank&quot;&gt;diavgeia.gov.gr&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;all the Greek Legislation published through the National Printing Service &lt;a href=&quot;www.et.gr&quot; target=&quot;_blank&quot;&gt;www.et.gr&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;all tenders and procurements published through the Central Electronic Registry for Public Contracts (CERPC), &lt;a href=&quot;www.eprocurement.gov.gr&quot; target=&quot;_blank&quot;&gt;www.eprocurement.gov.gr&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;all the Greek Parliament proceedings published through &lt;a href=&quot;www.parliament.gr&quot; target=&quot;_blank&quot;&gt;www.parliament.gr&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://yperdiavgeia.blogspot.gr&quot;&gt;Yperdiavgeia&amp;#8217;s blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hackathon.vbanos.gr/&quot;&gt;GRGOV Mobile Search&lt;/a&gt; with it&amp;#8217;s code available on &lt;a href=&quot;https://github.com/vbanos/grgov-mobile-search&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://yperdiavgeia.gr/docs/opensearch&quot; target=&quot;_blank&quot;&gt;OpenSearch API help page&lt;/a&gt; The result of the HTTP Request is an Atom Feed of type OpenSearch Response.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;datagovgr&quot;&gt;Data.gov.gr&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://data.gov.gr/&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/blog&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/datasetrequests/&quot; target=&quot;_blank&quot;&gt;data requests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.gov.gr/dataset-search/&quot; target=&quot;_blank&quot;&gt;dataset search&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;relevant-sites&quot;&gt;Relevant sites&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.opengovpartnership.org/country/greece&quot; target=&quot;_blank&quot;&gt;Greece page at Open Government Partnership&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ogp.opengov.gr/&quot; target=&quot;_blank&quot;&gt;ogp.opengov.gr&lt;/a&gt; is a list of websites of governmental institutions related to open data or open government&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hellenicpolice&quot; target=&quot;_blank&quot;&gt;twitter account of the greek police&lt;/a&gt; which works as described &lt;a href=&quot;http://www.astynomia.gr/index.php?option=ozo_content&amp;amp;perform=view&amp;amp;id=3037&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://labs.opengov.gr/&quot; target=&quot;_blank&quot;&gt;labs.opengov.gr&lt;/a&gt;, this site is depricated&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Geodata sites</title>
-   <link href="http://georgiats.github.io/opendata/2014/12/25/Geodata%20sites"/>
-   <updated>2014-12-25T00:00:00+02:00</updated>
-   <id>http://georgiats.github.io/opendata/2014/12/25/Geodata sites</id>
-   <content type="html">
-&lt;h2 id=&quot;geodata&quot;&gt;Geodata&lt;/h2&gt;
-
-&lt;h3 id=&quot;geodatagovgr&quot;&gt;Geodata.gov.gr&lt;/h3&gt;
-&lt;p&gt;geodata.gov.gr was designed and developed with the aim to provide a focal point for the aggregation, search, provision and portrayal of open public geospatial information. It’s one of the Greek Government’s open government initiatives in the framework of the Open Government Partnership.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://geodata.gov.gr&quot; target=&quot;_blank&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://geodata.gov.gr/maps/&quot; target=&quot;_blank&quot;&gt;Maps&lt;/a&gt; with visualized data on the map&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://labs.geodata.gov.gr/&quot; target=&quot;_blank&quot;&gt;Labs&lt;/a&gt;  &lt;span style=&quot;color:red&quot;&gt;[new site]&lt;/span&gt;
-  	Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;opengeodata&quot;&gt;open(geo)data&lt;/h3&gt;
-&lt;p&gt;Contains intresting datasets, but some of them are depricated&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://opengeodata.gr&quot;&gt;Main site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Most useful datasets&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=387&quot;&gt;Όρια Διαμερισμάτων και γειτονιών Δήμου Αθήνας&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/wp-content/uploads/2014/06/Oria_D_Diamerismaton_D_Athinaion.kmz&quot;&gt;Download&lt;/a&gt; the dataset)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=380&quot;&gt;Λεξικό Ελληνικών επωνύμων &amp;amp; ονομάτων&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/wp-content/uploads/2013/unique.zip&quot;&gt;Download&lt;/a&gt; the dataset)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=363&quot;&gt;Τα αποτελέσματα των εκλογών του Ιουνίου 2012&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.opengeodata.gr/?p=344&quot;&gt;Αριθμός Ψηφοφόρων ανά εκλογικό διαμέρισμα και λεξικά - 2012&lt;/a&gt;  (&lt;a href=&quot;www.opengeodata.gr/fakelos_files/greek_streets_settlements/eklogikos_plithos_psifoforon_ana_eklogiko.xls&quot;&gt;Download&lt;/a&gt; the dataset) &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
  
  
 </feed>
