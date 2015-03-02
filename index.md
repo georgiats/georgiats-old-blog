@@ -13,6 +13,6 @@ I work in IT and I spend my time among my job, my Master's studies and some tech
 I am also a coordinator in our team [OpenThessaloniki](http://www.openthessaloniki.org), which aims to spread the usage of Open Data in every aspect of public life. We are lately working on the [OpenIndex](http://www.openindex.gr) project.
 
 
-Moreover I am happy to contribute to [SKGTech](http://www.skgtech.io) project, which is a great place to get informed about lots of great tech events in the town.
+Moreover, I am happy to contribute to [SKGTech](http://www.skgtech.io) project, which offers ample opportunities regarding getting informed about lots of great tech events in town.
 
 
